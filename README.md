@@ -1,4 +1,4 @@
-# BOT IMITADOR NO TELEGRAM
+## BOT IMITADOR NO TELEGRAM
 
 ## O que é?
 
@@ -15,5 +15,8 @@ Para usar o bot, basta adicionar o bot [@imitador_bot](https://t.me/imitador_08b
   * [Ngrok](ngrok.com/)
   * [axios](github.com/axios/axios)
 
-## img
+## Img
+
+![](https://user-images.githubusercontent.com/96514967/215730009-bd3c70b5-7a63-4fb6-b351-ca9db7946e0c.png)
+
 
